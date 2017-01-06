@@ -2,9 +2,9 @@
  * Created by benjaminmacmillan1 on 1/5/17.
  */
 public class Client {
-    // need an account number, password, balance
-    // method: return balance
+    // the interface of all the transaction
     public static void main (String[] args){
+        System.out.println("Welcome to Bank of Kittens! WHat can I do for you today?");
 
     }
 }
