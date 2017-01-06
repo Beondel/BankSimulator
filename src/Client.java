@@ -4,4 +4,7 @@
 public class Client {
     // need an account number, password, balance
     // method: return balance
+    public static void main (String[] args){
+
+    }
 }
