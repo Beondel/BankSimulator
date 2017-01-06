@@ -1,7 +1,7 @@
 /**
- * Created by benjaminmacmillan1 on 1/5/17.
+ * Created by siyuk on 1/5/2017.
  */
-public class Client {
+public class Account {
     // need an account number, password, balance
     // method: return balance
 }
