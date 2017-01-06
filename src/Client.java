@@ -13,7 +13,7 @@ public class Client {
         System.out.println("giver account balance: " + account1.balance);
         System.out.println("recevier account balance: " + account2.balance);
 
-        kittenBank.transfer(account1, account2, 100000.00);
+        kittenBank.transfer(account1, account2, 300000.00);
 
         System.out.println("giver account balance: " + account1.balance);
         System.out.println("recevier account balance: " + account2.balance);
