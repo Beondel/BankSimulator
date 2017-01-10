@@ -16,6 +16,6 @@ public class Client {
         kittenBank.transfer(account1, account2, 300000.00);
 
         System.out.println("giver account balance: " + account1.balance);
-        System.out.println("recevier account balance: " + account2.balance);
+        System.out.println("receiver account balance: " + account2.balance);
     }
 }
