@@ -13,4 +13,8 @@ public class Account {
         this.pswd = pswd;
         this.balance = balance;
     }
+
+    public String password() {
+        return pswd;
+    }
 }
